@@ -1,0 +1,21 @@
+/*services*/
+
+
+.top-line {
+  min-height: 412px;
+  background: url("../../img/headline 1-services.png") center top no-repeat;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 24px;
+}
+
+.top-line__container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 1141px;
+}
+
+

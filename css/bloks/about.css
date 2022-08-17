@@ -1,0 +1,32 @@
+
+
+.about__container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 1141px;
+}
+
+
+.about__content {
+  background: url("../../img/mountains.png");
+  padding: 70px 81px;
+  width: 785px;
+  height: 455px;
+  border-radius: 5px;
+  margin-left: 350px;
+  margin-top: -410px;
+  margin-bottom: 116px;
+}
+
+.about__text {
+  color: #060606;
+  font-size: 16px;
+  margin-bottom: 43px;
+}
+
+.about__text p {
+  margin-bottom: 20px;
+}
